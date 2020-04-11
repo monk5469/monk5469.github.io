@@ -1,4 +1,4 @@
-# Welcome to Intelligent & Info Team
+# Intelligent & Info Team
 
 ![Image](Team.jpg)
 
