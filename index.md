@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+# Welcome to Intelligent & Info Team
+
+![Image](Team.jpg)
 
 You can use the [editor on GitHub](https://github.com/monk5469/Intelligent-Information-Team/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
