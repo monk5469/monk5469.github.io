@@ -143,3 +143,16 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
   - 2019 桂妮霞, 罗金玲
   - 2018 陆小玲
   - 2011 杨茜
+
+# What's New/最新动态
+
+# Join Us/联系我们
+
+联系人 | 吴老师
+------------ | -------------
+地址| 昆明市云南民族大学雨花校区电信学院
+邮编| 650504
+Email | whf5469@gmail.com
+
+### English/中文
+
