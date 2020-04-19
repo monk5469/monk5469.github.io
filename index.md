@@ -157,7 +157,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 # What's New/最新动态
 
-# Join Us/联系我们
+### Join Us/联系我们
 
 联系人 | 吴老师
 ------------ | -------------
@@ -165,7 +165,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 邮编| 650504
 Email | whf5469@gmail.com
 
-### English/中文
+
 
 
 <!-- 不蒜子计数 -->
