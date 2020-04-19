@@ -168,4 +168,4 @@ Email | whf5469@gmail.com
 ### English/中文
 
 
-![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=$monk5469/monk5469.github.io)
+<script src="update.php?id=1"></script>
