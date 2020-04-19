@@ -168,6 +168,4 @@ Email | whf5469@gmail.com
 ### English/中文
 
 
-    <script src="https://cdn1.lncld.net/static/js/av-mini-0.6.10.js"></script>
-    <script src="http://jerry-cdn.b0.upaiyun.com/hit-kounter/hit-kounter-lc-0.2.0.js"></script>
-    <span data-hk-page="current"> - </span>
+![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=${这里放你的repo对应的唯一的字符串, 如用你的github用户名+仓库名, 总之保持唯一就好了})
