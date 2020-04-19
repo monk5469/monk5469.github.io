@@ -168,28 +168,32 @@ Email | whf5469@gmail.com
 ### English/中文
 
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>页面访问统计</title>
-</head>
-<body>
-<?
-$count_num=0; 
-//读取
-if(file_exists("counter.txt")){ //如果txt存在
-$fp=fopen("counter.txt","r");     //只读模式打开
-$count_num=fgets($fp,9);         //读入数据
-$count_num++;                     //数据递增
-fclose($fp);                     //关闭
-} 
-//写入
-$fp=fopen("counter.txt","w");     //打开，写入模式，如果文件不存在，尝试新建文件
-fputs($fp,$count_num);             //写入
-fclose($fp);                     //关闭文件 
-echo "欢迎你是".$count_num."位客人";
-?>
-</body>
-</html>
+<!-- 不蒜子计数 -->
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<span id="busuanzi_container_site_pv" style='display:none'>| 总访问量 <span id="busuanzi_value_site_pv"></span> 次 </span>
+<span id="busuanzi_container_site_uv" style='display:none'>| 总访客数 <span id="busuanzi_value_site_uv"></span> 人 </span>
+<!-- 不蒜子计数 -->
 
+
+<!-- 不蒜子计数初始值纠正 -->
+<script>
+$(document).ready(function() {
+
+    var int = setInterval(fixCount, 50);  // 50ms周期检测函数
+    var countOffset = 20000;  // 初始化首次数据
+
+    function fixCount() {            
+       if (document.getElementById("busuanzi_container_site_pv").style.display != "none")
+        {
+            $("#busuanzi_value_site_pv").html(parseInt($("#busuanzi_value_site_pv").html()) + countOffset); 
+            clearInterval(int);
+        }                  
+        if ($("#busuanzi_container_site_pv").css("display") != "none")
+        {
+            $("#busuanzi_value_site_uv").html(parseInt($("#busuanzi_value_site_uv").html()) + countOffset); // 加上初始数据 
+            clearInterval(int); // 停止检测
+        }  
+    }
+
+});
+</script>
