@@ -1,4 +1,4 @@
-# Intelligent & Info Team
+# Prof. Wu's Intelligent & Info Team / 
 
 ![Image](Team.jpg)
 
