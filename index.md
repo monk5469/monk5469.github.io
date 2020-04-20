@@ -160,7 +160,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ### Apr,2020![Image](new.gif)
 2020年云南民族大学“信息与通信工程”一级学科硕士接收校外调剂即将开始，敬请关注 [云南民族大学电电气信息工程学院](http://dxxy.ynni.edu.cn/)
 
-## Join Us/联系我们
+# Join Us/联系我们
 
 联系人 | 吴老师
 ------------ | -------------
