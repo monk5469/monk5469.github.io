@@ -155,6 +155,15 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
   - 2018 陆小玲
   - 2011 杨茜
 
+# Course/主讲课程
+
+### 通信系统仿真(研)
+
+- [讲义](new.gif)
+
+
+
+
 # What's New/最新动态
 
 ### Apr,2020![Image](new.gif)
