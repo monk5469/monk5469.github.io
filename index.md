@@ -132,12 +132,12 @@
 ### -EDA
 
 - [习题](./course/EDAExe.rar)
-- [实验](./course/EDAExp.rar) 
+- [实验](./course/EDAExp.zip) 
 
 ### -DSP
 
 - [习题](./course/DSPExe.rar)
-- [实验](./course/xx.rar) 
+- [实验](./course/DSPExp.rar) 
 
 
 # What's New/最新动态
