@@ -1,4 +1,4 @@
-# Prof. Wu's Team 
+# 云南民族大学吴海锋团队
 
 ![Image](Team.jpg)
 
