@@ -125,7 +125,9 @@
 
 ### -现代信号处理
 
-- [讲义](./course/SigProc.pdf)  [习题](./course/SigExercise.pdf) 
+- [讲义](./course/SigProc.pdf) 
+- [习题](./course/SigExercise.doc)
+- [代码](./course/SigCode.rar) 
 
 
 # What's New/最新动态
