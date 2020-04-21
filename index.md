@@ -130,7 +130,7 @@
 - [实验](./course/EDAExp.zip) 
 ### -DSP
 - [习题](./course/DSPExe.rar)
-- [实验](./course/DSPExp.rar) 
+- [实验](./course/DSPExp.zip) 
 
 
 # What's New/最新动态
