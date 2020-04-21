@@ -2,45 +2,7 @@
 
 ![Image](Team.jpg)
 
-You can use the [editor on GitHub](https://github.com/monk5469/Intelligent-Information-Team/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/monk5469/Intelligent-Information-Team/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-# About Us/关于团队
-
-### Overview/简介
+### About Us/关于团队
 
 云南民族大学吴海锋教授团队名称为“云南省高校智能传感网络及信息系统科技创新团队”，前身为始建于2010年的云南民族大学“传感器网络技术与信息处理创新团队”，于2017年初获云南省教育厅立项，成为第五批云南省高等学校科技创新团队之一。
 
