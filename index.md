@@ -123,7 +123,9 @@
 
 - [讲义及代码](./course/ComSim.rar)
 
+### 现代信号处理
 
+- [讲义](./course/SigProc.pdf)
 
 
 # What's New/最新动态
