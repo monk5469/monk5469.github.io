@@ -157,7 +157,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 # Course/主讲课程
 
-### 通信系统仿真(研)
+#### 通信系统仿真(研)
 
 - [讲义](new.gif)
 
