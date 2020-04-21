@@ -120,30 +120,23 @@
 # Course/主讲课程
 
 ### -通信系统仿真(研)
-
 - [讲义及代码](./course/ComSim.rar)
-
 ### -现代信号处理
-
 - [讲义](./course/SigProc.pdf) 
 - [习题](./course/SigExercise.doc)
 - [代码](./course/SigCode.rar) 
-
 ### -EDA
-
 - [习题](./course/EDAExe.rar)
 - [实验](./course/EDAExp.zip) 
-
 ### -DSP
-
 - [习题](./course/DSPExe.rar)
 - [实验](./course/DSPExp.rar) 
 
 
 # What's New/最新动态
 
-### Apr,2020![Image](new.gif)
-2020年云南民族大学“信息与通信工程”一级学科硕士接收校外调剂即将开始，敬请关注 [云南民族大学电电气信息工程学院](http://dxxy.ynni.edu.cn/)
+### Apr,2020
+![Image](new.gif)2020年云南民族大学“信息与通信工程”一级学科硕士接收校外调剂即将开始，敬请关注 [云南民族大学电电气信息工程学院](http://dxxy.ynni.edu.cn/)
 
 # Join Us/联系我们
 
