@@ -129,6 +129,16 @@
 - [习题](./course/SigExercise.doc)
 - [代码](./course/SigCode.rar) 
 
+### -EDA
+
+- [习题](./course/EDAExe.doc)
+- [实验](./course/EDAExp.rar) 
+
+### -DSP
+
+- [习题](./course/DSPExe.doc)
+- [实验](./course/xx.rar) 
+
 
 # What's New/最新动态
 
