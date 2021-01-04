@@ -46,7 +46,7 @@
  
 - 2018
   -  Haifeng Wu, K Yang, Y Zeng, Sparse Coding and Compressive Sensing for Overlapping Neural Spike Sorting, IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2018, 26(8): 1516–1525. ([pdf](./paper/wu2018_SpikeSorting_trans.pdf)) 
-  -  Haifeng Wu, Yang Wang, Yu Zeng, Capture-aware Bayesian RFID Tag Estimate for Large-scale Identification, IEEE/CAA Journal of Automatica Sinica, 2018 , 5(1) : 119-127
+  -  Haifeng Wu, Yang Wang, Yu Zeng, Capture-aware Bayesian RFID Tag Estimate for Large-scale Identification, IEEE/CAA Journal of Automatica Sinica, 2018 , 5(1) : 119-127. (./paper/Capture-aware_AUTO.pdf))
   - 李俊志, 吴海锋*, 曾玉. 频率漂移的RFID冲突标签的物理层恢复 (Recovery of Collided RFID Tags with Frequency Drift on Physical Layer), 电子学报, 2018, 46 (8): 2004-2010 
   - 杨凯, 吴海锋*, 曾玉, 压缩感知的重叠神经元峰电位信号分类, 电子学报, 2018, 46 (3): 748-754
 
@@ -54,20 +54,20 @@
   - 薛明龙, 吴海锋* , 曾玉, 无监督的猕猴运动皮层锋电位信号CKF解码 (Unsupervised CKF Decoding for Macaque Motor Cortical Spikes), 自动化学报, 2017, 43(2):302-312
 
 - 2016
-  - Hanjun Duan  , Haifeng Wu * , Yu Zeng, Yuebin Chen, LS Channel Estimation and Signal Separation for UHF RFID Tag Collision Recovery on the Physical Layer, Sensors, 2016, 16(4):1-13 
+  - Hanjun Duan, Haifeng Wu * , Yu Zeng, Yuebin Chen, LS Channel Estimation and Signal Separation for UHF RFID Tag Collision Recovery on the Physical Layer, Sensors, 2016,  16(4):1-13. (./paper/sensors-16-00442.pdf)) 
   - 王阳, 吴海锋* , 曾玉, 稠密RFID标签环境下捕获感知贝叶斯标签估计, 计算机研究与发展, 2016, 53(6):1325-1331 
   - 段汉俊, 吴海锋* , 曾玉, 物理层超高频射频识别标签信号分离中的信道估计, 电子与信息学报, 2016, 38(1):119-126 
 
 - 2015
-  - Haifeng Wu, Yu Zeng, Passive RFID Tag Anti-collision Algorithm for Capture Effect, IEEE Sensors Journal, 2015, 15(1): 218-226 
-  - Yang Wang Haifeng Wu * , Yu Zeng, Capture-Aware Estimation for Large-scale RFID tags Identification, IEEE Signal Processing Letters, 2015, 22(9): 1274-1277
+  - Haifeng Wu, Yu Zeng, Passive RFID Tag Anti-collision Algorithm for Capture Effect, IEEE Sensors Journal, 2015, 15(1): 218-226. (./paper/Passive RFID Tag Anti-collision Algorithm for Capture Effect.pdf)) 
+  - Yang Wang Haifeng Wu * , Yu Zeng, Capture-Aware Estimation for Large-scale RFID tags Identification, IEEE Signal Processing Letters, 2015, 22(9): 1274-1277. (./paper/wang2015.pdf))
   - 吴海锋, 曾玉, 物理层的超高频RFID标签信号分离, 通信学报, 2015, 36(2):215-222
 
 - 2010 ~ 2014
-  - Haifeng Wu, Y. Zeng, J. Feng, Y. Gu,“Binary tree slotted aloha for passive RFID tag anti-collision,” IEEE Transactions Parallel and Distributed Systems, Vol. 24, no. 1, pp. 19-31, 2013
-  - Haifeng Wu, Y. Zeng, “Efficient Framed Slotted ALOHA Protocol for RFID Tag Anti-collision,” IEEE Transactions Automation Science and Engineering, vol. 8, no. 3, pp. 581-588, 2011
-  - Haifeng Wu, Y. Zeng, “Bayesian tag estimate and optimal frame length for anti-collision aloha RFID system,” IEEE Transactions Automation Science and Engineering, vol. 7, no. 4, pp. 963-969, 2010
-  - Xi Yang, Haifeng Wu*, Yu Zeng, Fei Gao, “Capture-Aware Estimation for the Number of RFID Tags with Lower Complexity,” IEEE Communications Letters, Vol. 17, no. 10, pp 1873-1876, 2013
+  - Haifeng Wu, Y. Zeng, J. Feng, Y. Gu,“Binary tree slotted aloha for passive RFID tag anti-collision,” IEEE Transactions Parallel and Distributed Systems, Vol. 24, no. 1, pp. 19-31, 2013. (./paper/binary tree.pdf))
+  - Haifeng Wu, Y. Zeng, “Efficient Framed Slotted ALOHA Protocol for RFID Tag Anti-collision,” IEEE Transactions Automation Science and Engineering, vol. 8, no. 3, pp. 581-588, 2011. (./paper/efficient framed aloha.pdf))
+  - Haifeng Wu, Y. Zeng, “Bayesian tag estimate and optimal frame length for anti-collision aloha RFID system,” IEEE Transactions Automation Science and Engineering, vol. 7, no. 4, pp. 963-969, 2010. (./paper/Bayesian RFID Tag estimate.pdf))
+  - Xi Yang, Haifeng Wu*, Yu Zeng, Fei Gao, “Capture-Aware Estimation for the Number of RFID Tags with Lower Complexity,” IEEE Communications Letters, Vol. 17, no. 10, pp 1873-1876, 2013. (./paper/capture_aware.pdf))
   - 吴海锋, 曾玉, 凌永发. 捕获效应下RFID 标签的ABTSA 防冲突协议，自动化学报，40（3）：506-515, 2014 (EI)
   - 杨茜，吴海锋*, 曾玉. 捕获效应下RFID标签的CATPE防冲突协议，通信学报， 35(7):215~222, 2014 
   - 吴海锋，曽玉. 无需标签数估计的被动式RFID标签防冲突BTS协议,计算机研究与发展, 49（9）：1959-1971, 2012
