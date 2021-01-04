@@ -36,7 +36,8 @@
 ### Selected Publication/论文
 
 - 2020
-  - Haifeng Wu, Mingzhi Lu, Yu Zeng, State Estimation of Hemodynamic Model for fMRI Under Confounds: SSM Method, IEEE Journal of Biomedical and Health Informatics, 2020, 24(3):804-814
+  - Junzhi Li, Haifeng Wu* and Yu Zeng, "Recovery of Collided RFID Tags With Frequency Drift on Physical Layer," IEEE/CAA J. Autom. Sinica, vol. 7, no. 6, pp. 1593-1603, Nov. 2020.
+  - Haifeng Wu, Mingzhi Lu, Yu Zeng, State Estimation of Hemodynamic Model for fMRI Under Confounds: SSM Method, IEEE Journal of Biomedical and Health Informatics, 2020, 24(3):804-814  
 
 - 2019
   - Haifeng Wu, Jingyi Feng, and Yu Zeng, Neural Decoding for Macaque’s Finger Position: Convolutional Space Model, IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2019, 27(3):543-551
