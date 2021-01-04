@@ -45,7 +45,7 @@
   - Meng Gao， Haifeng Wu*， Yong Shen，Xia Wang，A peak detection algorithm adopting magnetic sensor signal for rail spike location in tamping machine, Advances in Mechanical Engineering, 2019, 11(11): 1-13
  
 - 2018
-  -  Haifeng Wu, K Yang, Y Zeng, Sparse Coding and Compressive Sensing for Overlapping Neural Spike Sorting, IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2018, 26(8): 1516–1525 
+  -  Haifeng Wu, K Yang, Y Zeng, Sparse Coding and Compressive Sensing for Overlapping Neural Spike Sorting, IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2018, 26(8): 1516–1525. ([pdf](./paper/wu2018_SpikeSorting_trans.pdf)) 
   -  Haifeng Wu, Yang Wang, Yu Zeng, Capture-aware Bayesian RFID Tag Estimate for Large-scale Identification, IEEE/CAA Journal of Automatica Sinica, 2018 , 5(1) : 119-127
   - 李俊志, 吴海锋*, 曾玉. 频率漂移的RFID冲突标签的物理层恢复 (Recovery of Collided RFID Tags with Frequency Drift on Physical Layer), 电子学报, 2018, 46 (8): 2004-2010 
   - 杨凯, 吴海锋*, 曾玉, 压缩感知的重叠神经元峰电位信号分类, 电子学报, 2018, 46 (3): 748-754
