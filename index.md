@@ -37,6 +37,7 @@
 
 - 2020
   - Junzhi Li, Haifeng Wu* and Yu Zeng, "Recovery of Collided RFID Tags With Frequency Drift on Physical Layer," IEEE/CAA J. Autom. Sinica, vol. 7, no. 6, pp. 1593-1603, Nov. 2020.
+  - Jingyi Feng, Haifeng Wu, Yu Zeng, Yuhong Wang, “Weakly supervised learning in neural encoding for the position of the moving finger of a macaque”, Cognitive Computation, 12(5), Sep. 2020.
   - Haifeng Wu, Mingzhi Lu, Yu Zeng, State Estimation of Hemodynamic Model for fMRI Under Confounds: SSM Method, IEEE Journal of Biomedical and Health Informatics, 2020, 24(3):804-814  
 
 - 2019
@@ -51,7 +52,6 @@
 
 - 2017
   - 薛明龙, 吴海锋* , 曾玉, 无监督的猕猴运动皮层锋电位信号CKF解码 (Unsupervised CKF Decoding for Macaque Motor Cortical Spikes), 自动化学报, 2017, 43(2):302-312
-  - And this
 
 - 2016
   - Hanjun Duan  , Haifeng Wu * , Yu Zeng, Yuebin Chen, LS Channel Estimation and Signal Separation for UHF RFID Tag Collision Recovery on the Physical Layer, Sensors, 2016, 16(4):1-13 
@@ -100,23 +100,24 @@
 ![Image](Dinner2018.jpg)  ![Image](Dinner2017.jpg)
 
 - 硕士生
-  - 2022 桂妮霞, 罗金玲, 李栋
-  - 2021 陆小玲，孔伶旭，吴晓刚
-  - 2020 李毅，高萌，陈安莹
-  - 2019 冯景义，吴庆贺，鲁明志
-  - 2018 杨凯，李俊志
-  - 2017 薛明龙，刘汉军，院冬珠
-  - 2016 段汉俊，王阳
-  - 2015 朱芹，胡上贤
-  - 2014 杨茜
-  - 2013 谭元，刘静
-  - 2012 邓中婷
+  - 2020级 保函，郭嘉雯，蒲长林，晏洁，高威
+  - 2019级 桂妮霞, 罗金玲, 李栋
+  - 2018级 陆小玲，孔伶旭，吴晓刚
+  - 2017级 李毅，高萌，陈安莹
+  - 2016级 冯景义，吴庆贺，鲁明志
+  - 2015级 杨凯，李俊志
+  - 2014级 薛明龙，刘汉军，院冬珠
+  - 2013级 段汉俊，王阳
+  - 2012级 朱芹，胡上贤
+  - 2011级 杨茜
+  - 2010级 谭元，刘静
+  - 2009级 邓中婷
   
 - 免试硕士生
-  - 2020 保函，郭嘉雯
-  - 2019 桂妮霞, 罗金玲
-  - 2018 陆小玲
-  - 2011 杨茜
+  - 2020级 保函，郭嘉雯
+  - 2019级 桂妮霞, 罗金玲
+  - 2018级 陆小玲
+  - 2011级 杨茜
 
 # Course/主讲课程
 
@@ -136,10 +137,14 @@
 
 # What's New/最新动态
 
-### Jun,2020
-![Image](new.gif) 2020年云南民族大学“信息与通信工程”一级学科硕士校外调剂已经结束，复试结果已公示，敬请关注 [云南民族大学电电气信息工程学院](http://dxxy.ynni.edu.cn/)
+### Oct,2020
+![Image](new.gif) 祝贺桂妮霞获2020年云南省教育厅研究生科研基金项目资助
 
-May 22,2020. 祝贺高萌获得2020年云南民族大学“信息与通信工程”优秀硕士论文
+Jun,2020. 2020年云南民族大学“信息与通信工程”一级学科硕士校外调剂已经结束，复试结果已公示，敬请关注 [云南民族大学电电气信息工程学院](http://dxxy.ynni.edu.cn/)
+
+May,2020. 祝贺高萌获得2020年云南民族大学“信息与通信工程”优秀硕士论文
+
+Apr,2020. 祝贺冯景义获得2020年云南省首届研究生优秀成果奖
 
 # Join Us/联系我们
 
