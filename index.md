@@ -36,13 +36,13 @@
 ### Selected Publication/论文
 
 - 2020
-  - Junzhi Li, Haifeng Wu* and Yu Zeng, "Recovery of Collided RFID Tags With Frequency Drift on Physical Layer," IEEE/CAA J. Autom. Sinica, vol. 7, no. 6, pp. 1593-1603, Nov. 2020.
-  - Jingyi Feng, Haifeng Wu, Yu Zeng, Yuhong Wang, “Weakly supervised learning in neural encoding for the position of the moving finger of a macaque”, Cognitive Computation, 12(5), Sep. 2020.
+  - Junzhi Li, Haifeng Wu* and Yu Zeng, "Recovery of Collided RFID Tags With Frequency Drift on Physical Layer," IEEE/CAA J. Autom. Sinica, vol. 7, no. 6, pp. 1593-1603, Nov. 2020. ([pdf](./paper/JunZhi_jas.2019.1911720.pdf))
+  - Jingyi Feng, Haifeng Wu, Yu Zeng, Yuhong Wang, “Weakly supervised learning in neural encoding for the position of the moving finger of a macaque”, Cognitive Computation, 12(5), Sep. 2020. ([pdf](./paper/Feng_weakly.pdf))
   - Haifeng Wu, Mingzhi Lu, Yu Zeng, State Estimation of Hemodynamic Model for fMRI Under Confounds: SSM Method, IEEE Journal of Biomedical and Health Informatics, 2020, 24(3):804-814. ([pdf](./paper/WuLu2019.pdf), [code](https://github.com/monk5469/CSCKF-CSCKS))
 
 - 2019
   - Haifeng Wu, Jingyi Feng, and Yu Zeng, Neural Decoding for Macaque’s Finger Position: Convolutional Space Model, IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2019, 27(3):543-551.  ([pdf](./paper/feng2019Trans.pdf))
-  - Meng Gao， Haifeng Wu*， Yong Shen，Xia Wang，A peak detection algorithm adopting magnetic sensor signal for rail spike location in tamping machine, Advances in Mechanical Engineering, 2019, 11(11): 1-13
+  - Meng Gao， Haifeng Wu*, Yong Shen，Xia Wang，A peak detection algorithm adopting magnetic sensor signal for rail spike location in tamping machine, Advances in Mechanical Engineering, 2019, 11(11): 1-13. ([pdf](./paper/PeakDetection_Gao.pdf))
  
 - 2018
   -  Haifeng Wu, K Yang, Y Zeng, Sparse Coding and Compressive Sensing for Overlapping Neural Spike Sorting, IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2018, 26(8): 1516–1525. ([pdf](./paper/wu2018_SpikeSorting_trans.pdf)) 
