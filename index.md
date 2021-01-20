@@ -137,8 +137,10 @@
 
 # What's New/最新动态
 
-### Oct,2020
-![Image](new.gif) 祝贺桂妮霞获2020年云南省教育厅研究生科研基金项目资助
+### Jan,2021
+![Image](new.gif) 祝贺孔伶旭论文被IEEE Transactions on Cognitive and Developmental Systems接受
+
+Jun,2020. 祝贺桂妮霞获2020年云南省教育厅研究生科研基金项目资助
 
 Jun,2020. 2020年云南民族大学“信息与通信工程”一级学科硕士校外调剂已经结束，复试结果已公示，敬请关注 [云南民族大学电电气信息工程学院](http://dxxy.ynni.edu.cn/)
 
