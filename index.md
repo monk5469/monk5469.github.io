@@ -36,6 +36,9 @@
 ### Selected Publication/论文
 
 - 2020
+  - Haifeng Wu，Lingxu Kong，Yu Zeng, Han Bao, "Resting-state Brain Connectivity via Multivariate EMD in Mild Cognitive Impairment," IEEE Transactions on Cognitive and Developmental Systems, Early Access, 2021.([pdf](./paper/Proof_TCDS3054504.pdf), [code](https://github.com/monk5469/MEMD_MCI_fMRI))
+
+- 2020
   - Junzhi Li, Haifeng Wu* and Yu Zeng, "Recovery of Collided RFID Tags With Frequency Drift on Physical Layer," IEEE/CAA J. Autom. Sinica, vol. 7, no. 6, pp. 1593-1603, Nov. 2020. ([pdf](./paper/JunZhi_jas.2019.1911720.pdf))
   - Jingyi Feng, Haifeng Wu, Yu Zeng, Yuhong Wang, “Weakly supervised learning in neural encoding for the position of the moving finger of a macaque”, Cognitive Computation, 12(5), Sep. 2020. ([pdf](./paper/Feng_weakly.pdf))
   - Haifeng Wu, Mingzhi Lu, Yu Zeng, State Estimation of Hemodynamic Model for fMRI Under Confounds: SSM Method, IEEE Journal of Biomedical and Health Informatics, 2020, 24(3):804-814. ([pdf](./paper/WuLu2019.pdf), [code](https://github.com/monk5469/CSCKF-CSCKS))
