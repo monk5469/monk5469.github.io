@@ -115,7 +115,7 @@ Transactions on Signal and Information Processing over Networks," ([pdf](./paper
   - 2016级 冯景义，吴庆贺，鲁明志
   - 2015级 杨凯，李俊志
   - 2014级 薛明龙，刘汉军，院冬珠
-  - 2013级 段汉俊，王阳,李桢
+  - 2013级 段汉俊，王阳, 李桢
   - 2012级 朱芹，胡上贤
   - 2011级 杨茜
   - 2010级 谭元，刘静
