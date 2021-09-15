@@ -36,6 +36,8 @@
 ### Selected Publication/论文
 
 - 2021
+  - Haifeng Wu, Xiaogang Wu, Yi Li and Yu Zeng "Collision Resolution with FM0 signal separation for short-range random multi-access wireless network,"  IEEE
+Transactions on Signal and Information Processing over Networks," ()   
   - Haifeng Wu，Lingxu Kong，Yu Zeng, Han Bao, "Resting-state Brain Connectivity via Multivariate EMD in Mild Cognitive Impairment," IEEE Transactions on Cognitive and Developmental Systems, Early Access, 2021.([pdf](./paper/Proof_TCDS3054504.pdf), [code](https://github.com/monk5469/MEMD_MCI_fMRI))
 
 - 2020
@@ -103,6 +105,7 @@
 ![Image](Dinner2018.jpg)  ![Image](Dinner2017.jpg)
 
 - 硕士生
+  - 2021级 陈珂，涂中华，普崇荣，汪汗青，田建成
   - 2020级 保函，郭嘉雯，蒲长林，晏洁，高威
   - 2019级 桂妮霞, 罗金玲, 李栋
   - 2018级 陆小玲，孔伶旭，吴晓刚
@@ -117,6 +120,7 @@
   - 2009级 邓中婷
   
 - 免试硕士生
+  - 2021级 马佳
   - 2020级 保函，郭嘉雯
   - 2019级 桂妮霞, 罗金玲
   - 2018级 陆小玲
