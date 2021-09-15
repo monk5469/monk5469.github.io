@@ -107,7 +107,7 @@ Transactions on Signal and Information Processing over Networks," ([pdf](./paper
 ![Image](Dinner2018.jpg)  ![Image](Dinner2017.jpg)
 
 - 硕士生
-  - 2021级 陈珂，涂中华，普崇荣，汪汗青，田建成
+  - 2021级 陈珂，涂中华，普崇荣，汪汗青，田建成，马佳
   - 2020级 保函，郭嘉雯，蒲长林，晏洁，高威
   - 2019级 桂妮霞, 罗金玲, 李栋
   - 2018级 陆小玲，孔伶旭，吴晓刚
@@ -115,7 +115,7 @@ Transactions on Signal and Information Processing over Networks," ([pdf](./paper
   - 2016级 冯景义，吴庆贺，鲁明志
   - 2015级 杨凯，李俊志
   - 2014级 薛明龙，刘汉军，院冬珠
-  - 2013级 段汉俊，王阳
+  - 2013级 段汉俊，王阳,李桢
   - 2012级 朱芹，胡上贤
   - 2011级 杨茜
   - 2010级 谭元，刘静
@@ -146,7 +146,7 @@ Transactions on Signal and Information Processing over Networks," ([pdf](./paper
 
 # What's New/最新动态
 
-### Jan,2021
+### Jun,2021
 ![Image](new.gif). 祝贺吴晓刚论文被IEEE Transactions on Signal and Information Processing over Networks接受
 
 January,2021祝贺孔伶旭论文被IEEE Transactions on Cognitive and Developmental Systems接受
