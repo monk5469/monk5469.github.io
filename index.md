@@ -37,7 +37,7 @@
 
 - 2021
   - Haifeng Wu, Xiaogang Wu, Yi Li and Yu Zeng "Collision Resolution with FM0 signal separation for short-range random multi-access wireless network,"  IEEE
-Transactions on Signal and Information Processing over Networks," ([pdf]./paper/01XiaoGang2021Trans.pdf)   
+Transactions on Signal and Information Processing over Networks," ([pdf](./paper/01XiaoGang2021Trans.pdf),)   
   - Haifeng Wu，Lingxu Kong，Yu Zeng, Han Bao, "Resting-state Brain Connectivity via Multivariate EMD in Mild Cognitive Impairment," IEEE Transactions on Cognitive and Developmental Systems, Early Access, 2021.([pdf](./paper/Proof_TCDS3054504.pdf), [code](https://github.com/monk5469/MEMD_MCI_fMRI))
 
 - 2020
@@ -87,6 +87,8 @@ Transactions on Signal and Information Processing over Networks," ([pdf]./paper/
 
 
 ### Grant/科研项目
+
+- 认知风险控制的非遍历信号处理研究,2022.01 - 2025.12,国家自然科学基金, 主持人：吴海锋
 
 - SSM视角下δ形传输拥塞的物理层解决:以UHF_RFID为例, 2018. 1 ~2021.12, 国家自然科学基金, 主持人：吴海锋 
 
@@ -145,7 +147,9 @@ Transactions on Signal and Information Processing over Networks," ([pdf]./paper/
 # What's New/最新动态
 
 ### Jan,2021
-![Image](new.gif) 祝贺孔伶旭论文被IEEE Transactions on Cognitive and Developmental Systems接受
+![Image](new.gif). 祝贺吴晓刚论文被IEEE Transactions on Signal and Information Processing over Networks接受
+
+January,2021祝贺孔伶旭论文被IEEE Transactions on Cognitive and Developmental Systems接受
 
 Jun,2020. 祝贺桂妮霞获2020年云南省教育厅研究生科研基金项目资助
 
