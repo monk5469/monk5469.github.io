@@ -36,6 +36,7 @@
 ### Selected Publication/论文
 
 - 2021
+  - Haifeng Wu , Dong Li, Mingzhi Lu, Yu Zeng "fMRI activations via low-complexity second-order inverse-sparse-transform blind separation," Digital Signal Processing Volume 117, October 2021, 103137," ([pdf](./paper/lidong2021DSP.pdf), [code](https://github.com/monk5469/GFS_GCS_fMRI))
   - Haifeng Wu, Xiaogang Wu, Yi Li and Yu Zeng "Collision Resolution with FM0 signal separation for short-range random multi-access wireless network,"  IEEE
 Transactions on Signal and Information Processing over Networks," ([pdf](./paper/01XiaoGang2021Trans.pdf), [code](https://github.com/monk5469/collision-separation))
   - Haifeng Wu，Lingxu Kong，Yu Zeng, Han Bao, "Resting-state Brain Connectivity via Multivariate EMD in Mild Cognitive Impairment," IEEE Transactions on Cognitive and Developmental Systems, Early Access, 2021.([pdf](./paper/Proof_TCDS3054504.pdf), [code](https://github.com/monk5469/MEMD_MCI_fMRI))
@@ -106,6 +107,7 @@ Transactions on Signal and Information Processing over Networks," ([pdf](./paper
 
 ![Image](Dinner2018.jpg)  ![Image](Dinner2017.jpg)
 
+![Image](dinner2021.jpg)  ![Image](dinner20212.jpg)  
 - 硕士生
   - 2021级 陈珂，涂中华，普崇荣，汪汗青，田建成，马佳
   - 2020级 保函，郭嘉雯，蒲长林，晏洁，高威
@@ -147,7 +149,9 @@ Transactions on Signal and Information Processing over Networks," ([pdf](./paper
 # What's New/最新动态
 
 ### Jun,2021
-![Image](new.gif). 祝贺吴晓刚论文被IEEE Transactions on Signal and Information Processing over Networks接受
+![Image](new.gif). 祝贺李栋论文被Digital Signal Processing接受
+
+June,2021祝贺吴晓刚论文被IEEE Transactions on Signal and Information Processing over Networks接受
 
 January,2021祝贺孔伶旭论文被IEEE Transactions on Cognitive and Developmental Systems接受
 
