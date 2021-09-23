@@ -110,7 +110,7 @@ Transactions on Signal and Information Processing over Networks," ([pdf](./paper
 ![Image](dinner2021.jpg)  ![Image](dinner20212.jpg)  
 - 硕士生
   - 2021级 陈珂，涂中华，普崇荣，汪汗青，田建成，马佳
-  - 2020级 保函，郭嘉雯，蒲长林，晏洁，高威
+  - 2020级 保涵，郭佳雯，蒲长林，晏洁，高威
   - 2019级 桂妮霞, 罗金玲, 李栋
   - 2018级 陆小玲，孔伶旭，吴晓刚
   - 2017级 李毅，高萌，陈安莹
@@ -125,7 +125,7 @@ Transactions on Signal and Information Processing over Networks," ([pdf](./paper
   
 - 免试硕士生
   - 2021级 马佳
-  - 2020级 保函，郭嘉雯
+  - 2020级 保涵，郭佳雯
   - 2019级 桂妮霞, 罗金玲
   - 2018级 陆小玲
   - 2011级 杨茜
