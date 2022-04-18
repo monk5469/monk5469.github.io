@@ -35,7 +35,7 @@
 
 ### Selected Publication/论文
 - 2022
-  - Haifeng Wu, Jinling Luo, Xiaoling Lu & Yu Zeng "3D transfer learning network for classification of Alzheimer’s disease with MRI," International Journal of Machine Learning and Cybernetics (2022)
+  - Haifeng Wu, Jinling Luo, Xiaoling Lu & Yu Zeng "3D transfer learning network for classification of Alzheimer’s disease with MRI," International Journal of Machine Learning and Cybernetics (2022) ([pdf](./paper/cf07504c-0df4-44f3-a293-3f55a96e4afe.pdf), [code](https://github.com/monk5469/AD MRI classification))
 - 2021
   - Haifeng Wu , Dong Li, Mingzhi Lu, Yu Zeng "fMRI activations via low-complexity second-order inverse-sparse-transform blind separation," Digital Signal Processing Volume 117, October 2021, 103137," ([pdf](./paper/lidong2021DSP.pdf), [code](https://github.com/monk5469/GFS_GCS_fMRI))
   - Haifeng Wu, Xiaogang Wu, Yi Li and Yu Zeng "Collision Resolution with FM0 signal separation for short-range random multi-access wireless network,"  IEEE
