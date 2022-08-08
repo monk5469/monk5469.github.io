@@ -151,7 +151,9 @@ Transactions on Signal and Information Processing over Networks," ([pdf](./paper
 # What's New/最新动态
 
 ### January，2022
-![Image](new.gif).祝贺罗金玲论文被International Journal of Machine Learning and Cybernetics接受
+![Image](new.gif).祝贺高威论文被IEEE Transactions on Instrumentation & Measurement接受
+
+February,2022,.祝贺罗金玲论文被International Journal of Machine Learning and Cybernetics接受
 
 Jun,2021,祝贺李栋论文被Digital Signal Processing接受
 
