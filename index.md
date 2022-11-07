@@ -35,26 +35,25 @@
 
 ### Selected Publication/论文
 - 2022
-  - Haifeng Wu, Wei Gao Chongrong Pu & Yu Zeng "Feature selection and cross-validation for physical layer RFID counterfeit tag identification," IEEE Transactions on Instrumentation & Measurement vol. 71, pp. 1-14, 2022, Art no. 5502514, doi: 10.1109/TIM.2022.3200437. ([pdf], [code](https://github.com/monk5469/counterfeit-identification.))
-  - Haifeng Wu, Jinling Luo, Xiaoling Lu & Yu Zeng "3D transfer learning network for classification of Alzheimer’s disease with MRI," International Journal of Machine Learning and Cybernetics (2022) ([pdf](./paper/cf07504c-0df4-44f3-a293-3f55a96e4afe.pdf), [code](https://github.com/monk5469/AD MRI classification.))
+  - H. Wu, W. Gao, C. Pu and Y. Zeng, "Feature Selection and Cross Validation for Physical-Layer RFID Counterfeit Tag Identification," in IEEE Transactions on Instrumentation and Measurement, vol. 71, pp. 1-14, 2022, Art no. 5502514, doi: 10.1109/TIM.2022.3200437. ([pdf], [code](https://github.com/monk5469/counterfeit-identification.))
+  -H. Wu, J. Luo, X. Lu & Y. Zeng ,"3D transfer learning network for classification of Alzheimer’s disease with MRI," International Journal of Machine Learning and Cybernetics vol. 13, pp. 1997-2011, Jul 2022, doi: 10.1007/s13042-021-01501-7. ([pdf](./paper/cf07504c-0df4-44f3-a293-3f55a96e4afe.pdf), [code](https://github.com/monk5469/AD MRI classification.))
 - 2021
-  - Haifeng Wu , Dong Li, Mingzhi Lu, Yu Zeng "fMRI activations via low-complexity second-order inverse-sparse-transform blind separation," Digital Signal Processing Volume 117, October 2021, 103137," ([pdf](./paper/lidong2021DSP.pdf), [code](https://github.com/monk5469/GFS_GCS_fMRI))
-  - Haifeng Wu, Xiaogang Wu, Yi Li and Yu Zeng "Collision Resolution with FM0 signal separation for short-range random multi-access wireless network,"  IEEE
-Transactions on Signal and Information Processing over Networks," ([pdf](./paper/01XiaoGang2021Trans.pdf), [code](https://github.com/monk5469/collision-separation))
-  - Haifeng Wu，Lingxu Kong，Yu Zeng, Han Bao, "Resting-state Brain Connectivity via Multivariate EMD in Mild Cognitive Impairment," IEEE Transactions on Cognitive and Developmental Systems, Early Access, 2021.([pdf](./paper/Proof_TCDS3054504.pdf), [code](https://github.com/monk5469/MEMD_MCI_fMRI))
+  - H. Wu , D. Li, M. Lu, Y. Zeng, "fMRI activations via low-complexity second-order inverse-sparse-transform blind separation," Digital Signal Processing vol. 117, pp. 103-137, October 2021,  DOI:10.1016/j.dsp.2021.103137. ([pdf](./paper/lidong2021DSP.pdf), [code](https://github.com/monk5469/GFS_GCS_fMRI))
+  - H. Wu, X. Wu, Y. Li and Y. Zeng, "Collision Resolution With FM0 Signal Separation for Short-Range Random Multi-Access Wireless Network," in IEEE Transactions on Signal and Information Processing over Networks, vol. 7, pp. 438-450, 2021, doi: 10.1109/TSIPN.2021.3093000. ([pdf](./paper/01XiaoGang2021Trans.pdf), [code](https://github.com/monk5469/collision-separation))
+  - H. Wu, L. Kong, Y. Zeng and H. Bao, "Resting-State Brain Connectivity via Multivariate EMD in Mild Cognitive Impairment," in IEEE Transactions on Cognitive and Developmental Systems, vol. 14, no. 2, pp. 552-564, June 2022, doi: 10.1109/TCDS.2021.3054504. ([pdf](./paper/Proof_TCDS3054504.pdf), [code](https://github.com/monk5469/MEMD_MCI_fMRI))
 
 - 2020
-  - Junzhi Li, Haifeng Wu* and Yu Zeng, "Recovery of Collided RFID Tags With Frequency Drift on Physical Layer," IEEE/CAA J. Autom. Sinica, vol. 7, no. 6, pp. 1593-1603, Nov. 2020. ([pdf](./paper/JunZhi_jas.2019.1911720.pdf))
-  - Jingyi Feng, Haifeng Wu, Yu Zeng, Yuhong Wang, “Weakly supervised learning in neural encoding for the position of the moving finger of a macaque”, Cognitive Computation, 12(5), Sep. 2020. ([pdf](./paper/Feng_weakly.pdf))
-  - Haifeng Wu, Mingzhi Lu, Yu Zeng, State Estimation of Hemodynamic Model for fMRI Under Confounds: SSM Method, IEEE Journal of Biomedical and Health Informatics, 2020, 24(3):804-814. ([pdf](./paper/WuLu2019.pdf), [code](https://github.com/monk5469/CSCKF-CSCKS))
+  - J. Li, H. Wu and Y. Zeng, "Recovery of collided RFID tags with frequency drift on physical layer," in IEEE/CAA Journal of Automatica Sinica, vol. 7, no. 6, pp. 1593-1603, November 2020, doi: 10.1109/JAS.2019.1911720.([pdf](./paper/JunZhi_jas.2019.1911720.pdf))
+  - J. Feng, H. Wu, Y. Zeng, Y. Wang, "Weakly supervised learning in neural encoding for the position of the moving finger of a macaque," Cognitive Computation, vol. 12, no. 5, Sep 2020. doi: 10.1007/s12559-020-09742-4. ([pdf](./paper/Feng_weakly.pdf))
+  - H. Wu, M. Lu and Y. Zeng, "State Estimation of Hemodynamic Model for fMRI Under Confounds: SSM Method," in IEEE Journal of Biomedical and Health Informatics, vol. 24, no. 3, pp. 804-814, March 2020, doi: 10.1109/JBHI.2019.2917093. ([pdf](./paper/WuLu2019.pdf), [code](https://github.com/monk5469/CSCKF-CSCKS))
 
 - 2019
-  - Haifeng Wu, Jingyi Feng, and Yu Zeng, Neural Decoding for Macaque’s Finger Position: Convolutional Space Model, IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2019, 27(3):543-551.  ([pdf](./paper/feng2019Trans.pdf))
-  - Meng Gao， Haifeng Wu*, Yong Shen，Xia Wang，A peak detection algorithm adopting magnetic sensor signal for rail spike location in tamping machine, Advances in Mechanical Engineering, 2019, 11(11): 1-13. ([pdf](./paper/PeakDetection_Gao.pdf))
+  - H. Wu, J. Feng and Y. Zeng, "Neural Decoding for Macaque’s Finger Position: Convolutional Space Model," in IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol. 27, no. 3, pp. 543-551, March 2019, doi: 10.1109/TNSRE.2019.2893406.   ([pdf](./paper/feng2019Trans.pdf))
+  - M. Gao， H.Wu, Y. Shen，X. Wang, "A peak detection algorithm adopting magnetic sensor signal for rail spike location in tamping machine," Advances in Mechanical Engineering, vol.11,  pp. 1-13, November 2019, doi: 10.1177/1687814019891570. ([pdf](./paper/PeakDetection_Gao.pdf))
  
 - 2018
-  -  Haifeng Wu, K Yang, Y Zeng, Sparse Coding and Compressive Sensing for Overlapping Neural Spike Sorting, IEEE Transactions on Neural Systems and Rehabilitation Engineering, 2018, 26(8): 1516–1525. ([pdf](./paper/wu2018_SpikeSorting_trans.pdf)) 
-  -  Haifeng Wu, Yang Wang, Yu Zeng, Capture-aware Bayesian RFID Tag Estimate for Large-scale Identification, IEEE/CAA Journal of Automatica Sinica, 2018 , 5(1) : 119-127. ([pdf](./paper/Capture-aware_AUTO.pdf))
+  -  H. Wu, K. Yang and Y. Zeng, "Sparse Coding and Compressive Sensing for Overlapping Neural Spike Sorting," in IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol. 26, no. 8, pp. 1516-1525, Aug. 2018, doi: 10.1109/TNSRE.2018.2848463. ([pdf](./paper/wu2018_SpikeSorting_trans.pdf)) 
+  -  H. Wu, Y. Wang and Y. Zeng, "Capture-aware Bayesian RFID tag estimate for large-scale identification," in IEEE/CAA Journal of Automatica Sinica, vol. 5, no. 1, pp. 119-127, Jan. 2018, doi: 10.1109/JAS.2017.7510757. ([pdf](./paper/Capture-aware_AUTO.pdf))
   - 李俊志, 吴海锋*, 曾玉. 频率漂移的RFID冲突标签的物理层恢复 (Recovery of Collided RFID Tags with Frequency Drift on Physical Layer), 电子学报, 2018, 46 (8): 2004-2010 
   - 杨凯, 吴海锋*, 曾玉, 压缩感知的重叠神经元峰电位信号分类, 电子学报, 2018, 46 (3): 748-754
 
@@ -62,13 +61,13 @@ Transactions on Signal and Information Processing over Networks," ([pdf](./paper
   - 薛明龙, 吴海锋* , 曾玉, 无监督的猕猴运动皮层锋电位信号CKF解码 (Unsupervised CKF Decoding for Macaque Motor Cortical Spikes), 自动化学报, 2017, 43(2):302-312
 
 - 2016
-  - Hanjun Duan, Haifeng Wu * , Yu Zeng, Yuebin Chen, LS Channel Estimation and Signal Separation for UHF RFID Tag Collision Recovery on the Physical Layer, Sensors, 2016,  16(4):1-13. ([pdf](./paper/sensors-16-00442.pdf)) 
+  - H. Duan, H. Wu , Y. Zeng, Y. Chen,  "LS Channel Estimation and Signal Separation for UHF RFID Tag Collision Recovery on the Physical Layer, " Sensors,vol. 16, no. 4, pp. 1-13, 2016, doi: 10.3390/s16040442. ([pdf](./paper/sensors-16-00442.pdf)) 
   - 王阳, 吴海锋* , 曾玉, 稠密RFID标签环境下捕获感知贝叶斯标签估计, 计算机研究与发展, 2016, 53(6):1325-1331 
   - 段汉俊, 吴海锋* , 曾玉, 物理层超高频射频识别标签信号分离中的信道估计, 电子与信息学报, 2016, 38(1):119-126 
 
 - 2015
-  - Haifeng Wu, Yu Zeng, Passive RFID Tag Anti-collision Algorithm for Capture Effect, IEEE Sensors Journal, 2015, 15(1): 218-226. ([pdf](./paper/Passive RFID Tag Anti-collision Algorithm for Capture Effect.pdf)) 
-  - Yang Wang Haifeng Wu * , Yu Zeng, Capture-Aware Estimation for Large-scale RFID tags Identification, IEEE Signal Processing Letters, 2015, 22(9): 1274-1277. ([pdf](./paper/wang2015.pdf))
+  - H. Wu and Y. Zeng, "Passive RFID Tag Anticollision Algorithm for Capture Effect," in IEEE Sensors Journal, vol. 15, no. 1, pp. 218-226, Jan. 2015, doi: 10.1109/JSEN.2014.2339653. ([pdf](./paper/Passive RFID Tag Anti-collision Algorithm for Capture Effect.pdf)) 
+  - Y. Wang, H. Wu and Y. Zeng, "Capture-Aware Estimation for Large-Scale RFID Tags Identification," in IEEE Signal Processing Letters, vol. 22, no. 9, pp. 1274-1277, Sept. 2015, doi: 10.1109/LSP.2015.2396911. ([pdf](./paper/wang2015.pdf))
   - 吴海锋, 曾玉, 物理层的超高频RFID标签信号分离, 通信学报, 2015, 36(2):215-222
 
 - 2010 ~ 2014
