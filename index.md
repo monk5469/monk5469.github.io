@@ -36,7 +36,7 @@
 ### Selected Publication/论文
 - 2022
   - H. Wu, W. Gao, C. Pu and Y. Zeng, "Feature Selection and Cross Validation for Physical-Layer RFID Counterfeit Tag Identification," in IEEE Transactions on Instrumentation and Measurement, vol. 71, pp. 1-14, 2022, Art , doi: 10.1109/TIM.2022.3200437. ([pdf], [code](https://github.com/monk5469/counterfeit-identification.))
-  - H. Wu, J. Luo, X. Lu & Y. Zeng ,"3D transfer learning network for classification of Alzheimer’s disease with MRI," International Journal of Machine Learning and Cybernetics vol. 13, pp. 1997-2011, Jul 2022, doi: 10.1007/s13042-021-01501-7. ([pdf](./paper/cf07504c-0df4-44f3-a293-3f55a96e4afe.pdf), [code](https://github.com/monk5469/AD MRI classification)
+  - H. Wu, J. Luo, X. Lu & Y. Zeng ,"3D transfer learning network for classification of Alzheimer’s disease with MRI," International Journal of Machine Learning and Cybernetics vol. 13, pp. 1997-2011, Jul 2022, doi: 10.1007/s13042-021-01501-7. ([pdf](./paper/cf07504c-0df4-44f3-a293-3f55a96e4afe.pdf), [code](https://github.com/monk5469/AD-MRI-classification)
 - 2021
   - H. Wu , D. Li, M. Lu, Y. Zeng, "fMRI activations via low-complexity second-order inverse-sparse-transform blind separation," Digital Signal Processing vol. 117, pp. 103-137, October 2021,  DOI:10.1016/j.dsp.2021.103137. ([pdf](./paper/lidong2021DSP.pdf), [code](https://github.com/monk5469/GFS_GCS_fMRI))
   - H. Wu, X. Wu, Y. Li and Y. Zeng, "Collision Resolution With FM0 Signal Separation for Short-Range Random Multi-Access Wireless Network," in IEEE Transactions on Signal and Information Processing over Networks, vol. 7, pp. 438-450, 2021, doi: 10.1109/TSIPN.2021.3093000. ([pdf](./paper/01XiaoGang2021Trans.pdf), [code](https://github.com/monk5469/collision-separation))
