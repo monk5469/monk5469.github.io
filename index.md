@@ -66,14 +66,14 @@
   - 段汉俊, 吴海锋* , 曾玉, 物理层超高频射频识别标签信号分离中的信道估计, 电子与信息学报, 2016, 38(1):119-126 
 
 - 2015
-  - H. Wu and Y. Zeng, "Passive RFID Tag Anticollision Algorithm for Capture Effect," in IEEE Sensors Journal, vol. 15, no. 1, pp. 218-226, Jan. 2015, doi: 10.1109/JSEN.2014.2339653. ([pdf](./paper/Passive RFID Tag Anti-collision Algorithm for Capture Effect.pdf)) 
+  - H. Wu and Y. Zeng, "Passive RFID Tag Anticollision Algorithm for Capture Effect," in IEEE Sensors Journal, vol. 15, no. 1, pp. 218-226, Jan. 2015, doi: 10.1109/JSEN.2014.2339653.  ([pdf](./paper/Passive RFID Tag Anti-collision Algorithm for Capture Effect.pdf)) 
   - Y. Wang, H. Wu and Y. Zeng, "Capture-Aware Estimation for Large-Scale RFID Tags Identification," in IEEE Signal Processing Letters, vol. 22, no. 9, pp. 1274-1277, Sept. 2015, doi: 10.1109/LSP.2015.2396911. ([pdf](./paper/wang2015.pdf))
   - 吴海锋, 曾玉, 物理层的超高频RFID标签信号分离, 通信学报, 2015, 36(2):215-222
 
 - 2010 ~ 2014
-  - Haifeng Wu, Y. Zeng, J. Feng, Y. Gu,“Binary tree slotted aloha for passive RFID tag anti-collision,” IEEE Transactions Parallel and Distributed Systems, Vol. 24, no. 1, pp. 19-31, 2013. ([pdf](./paper/binary tree.pdf))
-  - Haifeng Wu, Y. Zeng, “Efficient Framed Slotted ALOHA Protocol for RFID Tag Anti-collision,” IEEE Transactions Automation Science and Engineering, vol. 8, no. 3, pp. 581-588, 2011. ([pdf](./paper/efficient framed aloha.pdf))
-  - Haifeng Wu, Y. Zeng, “Bayesian tag estimate and optimal frame length for anti-collision aloha RFID system,” IEEE Transactions Automation Science and Engineering, vol. 7, no. 4, pp. 963-969, 2010. ([pdf](./paper/Bayesian RFID Tag estimate.pdf))
+  - Haifeng Wu, Y. Zeng, J. Feng, Y. Gu,“Binary tree slotted aloha for passive RFID tag anti-collision,” IEEE Transactions Parallel and Distributed Systems, Vol. 24, no. 1, pp. 19-31, 2013.  ([pdf](./paper/binary tree.pdf))
+  - Haifeng Wu, Y. Zeng, “Efficient Framed Slotted ALOHA Protocol for RFID Tag Anti-collision,” IEEE Transactions Automation Science and Engineering, vol. 8, no. 3, pp. 581-588, 2011.  ([pdf](./paper/efficient framed aloha.pdf))
+  - Haifeng Wu, Y. Zeng, “Bayesian tag estimate and optimal frame length for anti-collision aloha RFID system,” IEEE Transactions Automation Science and Engineering, vol. 7, no. 4, pp. 963-969, 2010.  ([pdf](./paper/Bayesian RFID Tag estimate.pdf))
   - Xi Yang, Haifeng Wu*, Yu Zeng, Fei Gao, “Capture-Aware Estimation for the Number of RFID Tags with Lower Complexity,” IEEE Communications Letters, Vol. 17, no. 10, pp 1873-1876, 2013. ([pdf](./paper/capture_aware.pdf))
   - 吴海锋, 曾玉, 凌永发. 捕获效应下RFID 标签的ABTSA 防冲突协议，自动化学报，40（3）：506-515, 2014 (EI)
   - 杨茜，吴海锋*, 曾玉. 捕获效应下RFID标签的CATPE防冲突协议，通信学报， 35(7):215~222, 2014 
