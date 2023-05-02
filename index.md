@@ -106,9 +106,9 @@
 
 # Fellowship/人才培养
 
-![Image](Dinner2018.jpg)  ![Image](Dinner2017.jpg)  ![Image](202351.jpg)
+![Image](Dinner2018.jpg)  ![Image](Dinner2017.jpg)  
 
-![Image](dinner2021.jpg)  ![Image](dinner20212.jpg)  ![Image](202352.jpg)
+![Image](dinner2021.jpg)  ![Image](dinner20212.jpg) 
 - 硕士生
   - 2022级 胡新航，李顺良，曹金荣，侯凯，王思远
   - 2021级 陈珂，涂中华，普崇荣，汪汗青，田建成，马佳
