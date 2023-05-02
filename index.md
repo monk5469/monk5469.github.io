@@ -110,7 +110,7 @@
 
 ![Image](dinner2021.jpg)  ![Image](dinner20212.jpg) 
 
-![Image](202352.jpg)      ![Image](202351.jpg) 
+![Image](202352.jpg) ![Image](202351.jpg) 
 
 - 硕士生
   - 2022级 胡新航，李顺良，曹金荣，侯凯，王思远
