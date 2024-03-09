@@ -35,8 +35,8 @@
 
 ### Selected Publication/论文
 - 2022
-  - H. Wu, W. Gao, C. Pu and Y. Zeng, "Feature Selection and Cross Validation for Physical-Layer RFID Counterfeit Tag Identification," in IEEE Transactions on Instrumentation and Measurement, vol. 71, pp. 1-14, 2022, Art , doi: 10.1109/TIM.2022.3200437. ([pdf](./paper/Feature%20Selection%20and%20Cross%20Validation%20for.pdf), [code](https://github.com/monk5469/counterfeit-identification.))
-  - H. Wu, J. Luo, X. Lu & Y. Zeng ,"3D transfer learning network for classification of Alzheimer’s disease with MRI," International Journal of Machine Learning and Cybernetics vol. 13, pp. 1997-2011, Jul 2022, doi: 10.1007/s13042-021-01501-7. ([pdf](./paper/cf07504c-0df4-44f3-a293-3f55a96e4afe.pdf), [code](https://github.com/monk5469/AD-MRI-classification))
+  - H. Wu, W. Gao, C. Pu and Y. Zeng, "Feature Selection and Cross Validation for Physical-Layer RFID Counterfeit Tag Identification," in IEEE Transactions on Instrumentation and Measurement, vol. 71, pp. 1-14, 2022, April , doi: 10.1109/TIM.2022.3200437. ([pdf](./paper/Feature%20Selection%20and%20Cross%20Validation%20for.pdf), [code](https://github.com/monk5469/counterfeit-identification.))
+  - H. Wu, J. Luo, X. Lu & Y. Zeng ,"3D transfer learning network for classification of Alzheimer’s disease with MRI," International Journal of Machine Learning and Cybernetics vol. 13, pp. 1997-2011, July 2022, doi: 10.1007/s13042-021-01501-7. ([pdf](./paper/cf07504c-0df4-44f3-a293-3f55a96e4afe.pdf), [code](https://github.com/monk5469/AD-MRI-classification))
 - 2021
   - H. Wu , D. Li, M. Lu, Y. Zeng, "fMRI activations via low-complexity second-order inverse-sparse-transform blind separation," Digital Signal Processing vol. 117, pp. 103-137, October 2021,  DOI:10.1016/j.dsp.2021.103137. ([pdf](./paper/lidong2021DSP.pdf), [code](https://github.com/monk5469/GFS_GCS_fMRI))
   - H. Wu, X. Wu, Y. Li and Y. Zeng, "Collision Resolution With FM0 Signal Separation for Short-Range Random Multi-Access Wireless Network," in IEEE Transactions on Signal and Information Processing over Networks, vol. 7, pp. 438-450, 2021, doi: 10.1109/TSIPN.2021.3093000. ([pdf](./paper/01XiaoGang2021Trans.pdf), [code](https://github.com/monk5469/collision-separation))
@@ -115,6 +115,7 @@
 
 
 - 硕士生
+  - 2023级 陈庆松，李苒，马骏，翁建明
   - 2022级 胡新航，李顺良，曹金荣，侯凯，王思远
   - 2021级 陈珂，涂中华，普崇荣，汪汗青，田建成，马佳
   - 2020级 保涵，郭佳雯，蒲长林，晏洁，高威
@@ -155,10 +156,11 @@
 
 # What's New/最新动态
 
-### August，2022
-![Image](new.gif).祝贺高威论文被IEEE Transactions on Instrumentation & Measurement接受
+### March,2024
+![Image](new.gif).2024年云南民族大学“信息与通信工程”一级学科笔试成绩已公布，调剂与复试安排敬请关注 [云南民族大学电电气信息工程学院](http://dxxy.ynni.edu.cn/)
+August,2022祝贺高威论文被IEEE Transactions on Instrumentation & Measurement接受
 
-February,2022,.祝贺罗金玲论文被International Journal of Machine Learning and Cybernetics接受
+February,2022,祝贺罗金玲论文被International Journal of Machine Learning and Cybernetics接受
 
 Jun,2021,祝贺李栋论文被Digital Signal Processing接受
 
@@ -167,8 +169,6 @@ June,2021祝贺吴晓刚论文被IEEE Transactions on Signal and Information Pro
 January,2021祝贺孔伶旭论文被IEEE Transactions on Cognitive and Developmental Systems接受
 
 Jun,2020. 祝贺桂妮霞获2020年云南省教育厅研究生科研基金项目资助
-
-Jun,2020. 2020年云南民族大学“信息与通信工程”一级学科硕士校外调剂已经结束，复试结果已公示，敬请关注 [云南民族大学电电气信息工程学院](http://dxxy.ynni.edu.cn/)
 
 May,2020. 祝贺高萌获得2020年云南民族大学“信息与通信工程”优秀硕士论文
 
