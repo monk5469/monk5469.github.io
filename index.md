@@ -110,7 +110,7 @@
 
 ![Image](dinner2021.jpg)  ![Image](dinner20212.jpg) 
 
-![Image](202351.jpg)  ![Image](202353.jpg) 
+![Image](202351.jpg)  
 
 
 
@@ -158,6 +158,7 @@
 
 ### March,2024
 ![Image](new.gif).2024年云南民族大学“信息与通信工程”一级学科笔试成绩已公布，调剂与复试安排敬请关注 [云南民族大学电电气信息工程学院](http://dxxy.ynni.edu.cn/)
+
 August,2022祝贺高威论文被IEEE Transactions on Instrumentation & Measurement接受
 
 February,2022,祝贺罗金玲论文被International Journal of Machine Learning and Cybernetics接受
