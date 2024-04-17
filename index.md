@@ -35,7 +35,7 @@
 
 ### Selected Publication/论文
 - 2023
-  - H. Wu, C. Pu, W. Gao and Y. Zeng, "Cognitive Risk Control for Physical-Layer RFID Counterfeit Tag Identification," in IEEE Transactions on Instrumentation and Measurement, vol. 72, pp. 1-15, 2023, December no. 8007115, doi: 10.1109/TIM.2023.3328075. ([pdf](./paper/Cognitive_Risk_Control_for_Physical-Layer_RFID_Counterfeit_Tag_Identification.pdf) [code](https://github.com/monk5469/counterfeit-identification.))
+  - H. Wu, C. Pu, W. Gao and Y. Zeng, "Cognitive Risk Control for Physical-Layer RFID Counterfeit Tag Identification," in IEEE Transactions on Instrumentation and Measurement, vol. 72, pp. 1-15, 2023, October no. 8007115, doi: 10.1109/TIM.2023.3328075. ([pdf](./paper/Cognitive_Risk_Control_for_Physical-Layer_RFID_Counterfeit_Tag_Identification.pdf) [code](https://github.com/monk5469/counterfeit-identification.))
 - 2022
   - H. Wu, W. Gao, C. Pu and Y. Zeng, "Feature Selection and Cross Validation for Physical-Layer RFID Counterfeit Tag Identification," in IEEE Transactions on Instrumentation and Measurement, vol. 71, pp. 1-14, 2022, April , doi: 10.1109/TIM.2022.3200437. ([pdf](./paper/Feature%20Selection%20and%20Cross%20Validation%20for.pdf), [code](https://github.com/monk5469/counterfeit-identification.))
   - H. Wu, J. Luo, X. Lu & Y. Zeng ,"3D transfer learning network for classification of Alzheimer’s disease with MRI," International Journal of Machine Learning and Cybernetics vol. 13, pp. 1997-2011, July 2022, doi: 10.1007/s13042-021-01501-7. ([pdf](./paper/cf07504c-0df4-44f3-a293-3f55a96e4afe.pdf), [code](https://github.com/monk5469/AD-MRI-classification))
@@ -161,7 +161,7 @@
 ### March,2024
 ![Image](new.gif).2024年云南民族大学“信息与通信工程”一级学科笔试成绩已公布，调剂与复试安排敬请关注 [云南民族大学电气信息工程学院](http://dxxy.ynni.edu.cn/)
 
-December,2023祝贺普崇荣论文被IEEE Transactions on Instrumentation and Measurement接受
+October,2023祝贺普崇荣论文被IEEE Transactions on Instrumentation and Measurement接受
 
 August,2022祝贺高威论文被IEEE Transactions on Instrumentation & Measurement接受
 
