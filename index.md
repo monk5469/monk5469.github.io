@@ -34,8 +34,8 @@
 ![Image](Interest.jpg)
 
 ### Selected Publication/论文
--2025
-   - H. Wu, s. li and Y. Zeng, "Normalization and cross-entropy connectivity in brain disease classification" in iScience, vol. 304, 2025, December, doi: https://doi.org/10.1016/j.isci.2025.112226. ([pdf](./paper/2024huxinhang.pdf), [code](https://github.com/monk5469/Entropy.))
+- 2025
+   - H. Wu, S. li and Y. Zeng, "Normalization and cross-entropy connectivity in brain disease classification" in iScience, vol. 28, 2025, December, doi: https://doi.org/10.1016/j.isci.2025.112226. ([pdf](./paper/2024lishunliang.pdf), [code](https://github.com/monk5469/Entropy.))
 - 2024
    - H. Wu, X. Hu and Y. Zeng, "A fast dynamic causal modeling regression method for fMRI" in NeuroImage, vol. 304, 2024, December, doi: https://doi.org/10.1016/j.neuroimage.2024.120954. ([pdf](./paper/2024huxinhang.pdf), [code](https://github.com/monk5469/GSD.))
 - 2023
