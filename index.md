@@ -35,9 +35,9 @@
 
 ### Selected Publication/论文
 - 2024
-  - H. Wu, X. Hu and Y. Zeng, "A fast dynamic causal modeling regression method for fMRI," in NeuroImage, vol. 304, 2024, December, doi: https://doi.org/10.1016/j.neuroimage.2024.120954. ([pdf](./paper/A fast dynamic causal modeling regression method for fMRI.pdf), [code](https://github.com/monk5469/GSD.))
+  - H. Wu, X. Hu and Y. Zeng, "A fast dynamic causal modeling regression method for fMRI," in NeuroImage, vol. 304, 2024, December, doi: https://doi.org/10.1016/j.neuroimage.2024.120954. ([pdf](./paper/2024huxinhang.pdf), [code](https://github.com/monk5469/GSD.))
 - 2023
-  - H. Wu, C. Pu, W. Gao and Y. Zeng, "Cognitive Risk Control for Physical-Layer RFID Counterfeit Tag Identification," in IEEE Transactions on Instrumentation and Measurement, vol. 72, pp. 1-15, 2023, October no. 8007115, doi: 10.1109/TIM.2023.3328075. ([pdf](./paper/Cognitive Risk_Control_for_Physical-Layer_RFID_Counterfeit_Tag_Identification.pdf), [code](https://github.com/monk5469/counterfeit-identification.))
+  - H. Wu, C. Pu, W. Gao and Y. Zeng, "Cognitive Risk Control for Physical-Layer RFID Counterfeit Tag Identification," in IEEE Transactions on Instrumentation and Measurement, vol. 72, pp. 1-15, 2023, October no. 8007115, doi: 10.1109/TIM.2023.3328075. ([pdf](./paper/Cognitive Risk_Control_for_Physical-Layer_RFID_Counterfeit_Tag_Identification.pdf),([pdf](./paper/Cognitive_Risk_Control_for_Physical-Layer_RFID_Counterfeit_Tag_Identification.pdf),[code](https://github.com/monk5469/counterfeit-identification.))
 - 2022
   - H. Wu, W. Gao, C. Pu and Y. Zeng, "Feature Selection and Cross Validation for Physical-Layer RFID Counterfeit Tag Identification," in IEEE Transactions on Instrumentation and Measurement, vol. 71, pp. 1-14, 2022, April , doi: 10.1109/TIM.2022.3200437. ([pdf](./paper/Feature%20Selection%20and%20Cross%20Validation%20for.pdf), [code](https://github.com/monk5469/counterfeit-identification.))
   - H. Wu, J. Luo, X. Lu & Y. Zeng ,"3D transfer learning network for classification of Alzheimer’s disease with MRI," International Journal of Machine Learning and Cybernetics vol. 13, pp. 1997-2011, July 2022, doi: 10.1007/s13042-021-01501-7. ([pdf](./paper/cf07504c-0df4-44f3-a293-3f55a96e4afe.pdf), [code](https://github.com/monk5469/AD-MRI-classification))
