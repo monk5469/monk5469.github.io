@@ -38,7 +38,7 @@
    - H. Wu, S. li and Y. Zeng, "Normalization and cross-entropy connectivity in brain disease classification" in iScience, vol. 28, 2025, December, doi: 10.1016/j.isci.2025.112226. ([pdf](./paper/2024lishunliang.pdf), [code](https://github.com/monk5469/Entropy.))
 - 2024
    - H. Wu, X. Hu and Y. Zeng, "A fast dynamic causal modeling regression method for fMRI" in NeuroImage, vol. 304, 2024, December, doi: 10.1016/j.neuroimage.2024.120954. ([pdf](./paper/2024huxinhang.pdf), [code](https://github.com/monk5469/GSD.))
-- 2023
+- 2022
   - H. Wu, C. Pu, W. Gao and Y. Zeng, "Cognitive Risk Control for Physical-Layer RFID Counterfeit Tag Identification," in IEEE Transactions on Instrumentation and Measurement, vol. 72, pp. 1-15, 2023, October no. 8007115, doi: 10.1109/TIM.2023.3328075. ([pdf](./paper/Cognitive_Risk_Control_for_Physical-Layer_RFID_Counterfeit_Tag_Identification.pdf),[code](https://github.com/monk5469/counterfeit-identification.))
 - 2022
   - H. Wu, W. Gao, C. Pu and Y. Zeng, "Feature Selection and Cross Validation for Physical-Layer RFID Counterfeit Tag Identification," in IEEE Transactions on Instrumentation and Measurement, vol. 71, pp. 1-14, 2022, April , doi: 10.1109/TIM.2022.3200437. ([pdf](./paper/Feature%20Selection%20and%20Cross%20Validation%20for.pdf), [code](https://github.com/monk5469/counterfeit-identification.))
